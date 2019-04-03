@@ -76,7 +76,7 @@ target/
 .ipynb_checkpoints
 
 # My temp dir
-.temp
+temp/
 
 # IPython
 profile_default/
